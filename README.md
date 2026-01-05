@@ -1,7 +1,7 @@
-# GamblingTec RNG
+# Casino Games RNG
 
 ## About
-This is a simple wrapper using Laminas/Laminas/Rand which has been certified by Sunseven NV for use with
+This is a simple wrapper using Laminas/Laminas/Rand which has been certified for use with
 a UK, Malta and Curacao Gambling License.
 
 The wrapper is freely available for use by the gambling community for their games. By using this wrapper, we can assist you
@@ -17,7 +17,7 @@ on file. For this reason, we can obtain certification much quicker if you use ou
 
 ### Test Utility (command line)
 
-For a demonstration of the GamblingTec RNG, please see: https://github.com/sunsevennv/gamblingtec-rng which is a 
+For a demonstration of our RNG, please see: https://github.com/sunsevennv/gamblingtec-rng which is a 
 command line utility using the wrapper.
 
 ### About Laminas/Math/Rand
