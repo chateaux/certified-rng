@@ -54,7 +54,7 @@ If you have written a class using our certified rng then let us know and we will
 
 ## Gambling License & RNG Certification
 
-Should your organisation require an RNG certificate fir your games in order to obtain a gambling license, we can provide you with 
+Should your organisation require an RNG certificate for your games in order to obtain a gambling license, we can provide you with 
 a certificate for the class.
 
 You can place your order here: https://gtec.curacaowebhosting.com/cart.php?gid=9
