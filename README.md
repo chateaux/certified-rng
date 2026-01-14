@@ -1,8 +1,7 @@
 # Casino Games RNG
 
 ## About
-This is a simple wrapper using Laminas/Laminas/Rand which has been certified for use with
-a UK, Malta and Curacao Gambling License.
+This is a simple wrapper using Laminas/Laminas/Rand which has been certified for use under most Gambling Licenses.
 
 The wrapper is freely available for use by the gambling community for their games. By using this wrapper, we can assist you
 with RNG certification which is a pre-requisite of a gambling license.
